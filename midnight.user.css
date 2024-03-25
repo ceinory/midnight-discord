@@ -28,13 +28,13 @@
 	--online-indicator: var(--accent-2);
 
 	/* accent colors */
-	--accent-1: hsl(190, 80%, 60%); /* links */
-	--accent-2: hsl(190, 80%, 48%); /* general unread/mention elements */
-	--accent-3: hsl(190, 80%, 42%); /* accent buttons */
-	--accent-4: hsl(190, 80%, 36%); /* accent buttons when hovered */
-	--accent-5: hsl(190, 80%, 30%); /* accent buttons when clicked */
-	--mention: hsla(190, 80%, 52%, 0.1); /* mentions & mention messages */
-	--mention-hover: hsla(190, 80%, 52%, 0.05); /* mentions & mention messages when hovered */
+	--accent-1: hsl(327, 23%, 89%); /* links */
+	--accent-2: hsl(327, 23%, 89%); /* general unread/mention elements */
+	--accent-3: hsl(327, 23%, 89%); /* accent buttons */
+	--accent-4: hsl(327, 23%, 89%); /* accent buttons when hovered */
+	--accent-5: hsl(327, 23%, 89%); /* accent buttons when clicked */
+	--mention: hsla(327, 23%, 89%, 0.1); /* mentions & mention messages */
+	--mention-hover: hsla(327, 23%, 89%, 0.05); /* mentions & mention messages when hovered */
 
 	/* text colors */
 	--text-0: white; /* text on colored elements */
